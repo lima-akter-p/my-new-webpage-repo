@@ -116,4 +116,31 @@ button:hover{
   background-color:#d6e7ed;
 }
 
+/* section3 */
+
+.user{
+  
+  font-size:35px;
+}
+
+.photo{
+  border-radius:50px;
+}
+.divi-container{
+  display: flex;
+  gap:20px;
+}
+.section-three{
+  margin:150px 500px;
+  text-align:center;
+  justify-content:center;
+
+}
+.pot{
+  border:2px solid black;
+  border-radius:10px;
+  background-color: hsl(34, 50%, 94%);
+  border:none;
+}
+
 
