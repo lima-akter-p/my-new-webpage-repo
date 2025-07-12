@@ -147,7 +147,7 @@ button:hover{
   display: flex;
   gap: 100px;
   margin:140px 500px;
-  background-color:rgb(201, 184, 184);
+  background-color:rgb(216, 206, 206);
 }
 
 .divo-con{
@@ -180,5 +180,37 @@ button:hover{
   background-color:blue;
   border:none;
 }
+
+/* footer */
+.logu{
+  font-size:70px;
+  font-weight:bold;
+  color:blue;
+  text-align: center;
+}
+
+.ptext{
+  text-align: center;
+}
+
+
+ul li {
+  
+  list-style: none;
+
+}
+  
+
+li {
+  text-decoration:none;
+}
+
+ul{
+  display: flex;
+  text-align:center;
+  justify-content: center;
+  gap:40px;
+}
+
 
 
