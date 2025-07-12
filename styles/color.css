@@ -142,5 +142,43 @@ button:hover{
   background-color: hsl(34, 50%, 94%);
   border:none;
 }
+/* sec4 */
+.sec-four{
+  display: flex;
+  gap: 100px;
+  margin:140px 500px;
+  background-color:rgb(201, 184, 184);
+}
+
+.divo-con{
+  gap:50px;
+
+}
+
+.bold{
+  font-size:50px;
+  padding:20px;
+}
+
+.form,textarea{
+  padding:20px 40px;
+  border-radius:7px;
+  border:2px solid black;
+  border: none;
+  
+}
+
+.action{
+  padding:20px;
+}
+.prim{
+  padding:10px 60px;
+  border:2px solid black;
+  border-radius:5px;
+  cursor: pointer;
+  color: white;
+  background-color:blue;
+  border:none;
+}
 
 
